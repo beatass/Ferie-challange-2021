@@ -1,4 +1,4 @@
-# Ferie-challange-2021
+# Ferie-challenge-2021
 
 The challenge is aimed to 10 day and 10 applications of coding in Python.
 
