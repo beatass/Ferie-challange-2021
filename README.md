@@ -4,7 +4,7 @@ The challenge is aimed to 10 day and 10 applications of coding in Python.
 
 Event link can be found at https://www.facebook.com/events/843253696243420?active_tab=about
 
-Plan of Ferie-challenge-2021
+# Plan of Ferie-challenge-2021
 
 - Day 1 - palindroms and anagrams;
 - Day 2 - page from callendar;
