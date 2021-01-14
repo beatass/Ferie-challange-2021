@@ -13,6 +13,6 @@ Event link can be found at https://www.facebook.com/events/843253696243420?activ
 - Day 5 - movie finder;
 - Day 6 - image resizer;
 - Day 7 - password generator;
-- Day 8 - will be added;
-- Day 9 - will be added;
+- Day 8 - distance calculator;
+- Day 9 - house library;
 - Day 10 - will be added.
