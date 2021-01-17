@@ -15,4 +15,4 @@ Event link can be found at https://www.facebook.com/events/843253696243420?activ
 - Day 7 - password generator;
 - Day 8 - distance calculator;
 - Day 9 - house library;
-- Day 10 - Challenge recap.
+- Day 10 - challenge recap.
